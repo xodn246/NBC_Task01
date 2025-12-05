@@ -89,7 +89,7 @@ int main() {
 			}
 			else
 			{
-				cout << "HP포션이 부족합니다...!\n";
+				cout << "MP포션이 부족합니다...!\n";
 			}
 			continue;
 
